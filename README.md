@@ -1,4 +1,4 @@
-#This website is an assignment given within the scope of bootcamp to grasp the react router. It was developed by Ali Said Güneş.
+This website is an assignment given within the scope of bootcamp to grasp the react router. It was developed by Ali Said Güneş.
 
 
 # Getting Started with Create React App
